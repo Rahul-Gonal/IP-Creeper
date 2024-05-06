@@ -1,7 +1,10 @@
 # IP Creeper
 #### Description: A python OSINT tool to generate information about IP addresses using ip-api and Shodan.
 
-![Logo - Spider made of pen nib and sci fi design with Program and owner name below](https://raw.githubusercontent.com/RahulGonal/IpCreeper/main/Untitled3_20210628143230.png)
+<p align="center">
+  <img src="https://github.com/RahulGonal/IpCreeper/blob/0981569365f1d1d1458feaf9d0250c05de89336e/preview.png" />
+</p>
+
 ![MadeByRahul](https://img.shields.io/badge/Made%20By-RahulGonal-orange)
 ![MadeWithPython](https://img.shields.io/badge/Made%20With-Python-blue)
 ![Passed](https://img.shields.io/badge/Tests-Succesfully%20Passed-brightgreen)
