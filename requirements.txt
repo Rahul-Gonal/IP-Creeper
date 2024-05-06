@@ -1,0 +1,5 @@
+Faker
+ip-address
+pyfiglet
+requests
+shodan
